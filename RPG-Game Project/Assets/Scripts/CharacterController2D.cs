@@ -33,7 +33,7 @@ public class CharacterController2D : MonoBehaviour
         moving = horizontal != 0 || vertical != 0;
         animator.SetBool("moving", moving);
 
-        if (moving)
+        if (horizontal != 0 || vertical != 0)
         {
             lastMotionVector = new Vector2(
                 horizontal,

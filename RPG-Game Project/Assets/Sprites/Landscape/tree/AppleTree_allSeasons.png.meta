@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 9b24c7caff9ad69458cb55d46710773a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8087522839831074526
+    second: AppleTree_allSeasons_0
+  - first:
+      213: 2774216696647422681
+    second: AppleTree_allSeasons_1
+  - first:
+      213: 5211939410332501869
+    second: AppleTree_allSeasons_2
+  - first:
+      213: 1308636417382674513
+    second: AppleTree_allSeasons_3
+  - first:
+      213: -3528577577901247097
+    second: AppleTree_allSeasons_4
+  - first:
+      213: -986185928811451482
+    second: AppleTree_allSeasons_5
+  - first:
+      213: -6533741806526926434
+    second: AppleTree_allSeasons_6
+  - first:
+      213: 9187241014167758186
+    second: AppleTree_allSeasons_7
+  - first:
+      213: -3093760718361386366
+    second: AppleTree_allSeasons_8
+  - first:
+      213: 3219762851321218646
+    second: AppleTree_allSeasons_9
+  - first:
+      213: -3942204633746865871
+    second: AppleTree_allSeasons_10
+  - first:
+      213: -4612181693962694822
+    second: AppleTree_allSeasons_11
+  - first:
+      213: 7208875317808587414
+    second: AppleTree_allSeasons_12
+  - first:
+      213: 6189084242109048850
+    second: AppleTree_allSeasons_13
+  - first:
+      213: 3614047933284065619
+    second: AppleTree_allSeasons_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a203a3d853cf80800000000000000
+      internalID: -8087522839831074526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 256
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d290ad136fff7620800000000000000
+      internalID: 2774216696647422681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 256
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674ab79747845840800000000000000
+      internalID: 5211939410332501869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150fb3e53e5392210800000000000000
+      internalID: 1308636417382674513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 256
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b9ca5369f70fc0800000000000000
+      internalID: -3528577577901247097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab64be6f1d5052f0800000000000000
+      internalID: -986185928811451482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f7d7b17c7355a0800000000000000
+      internalID: -6533741806526926434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 128
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656e5bb603af7f70800000000000000
+      internalID: 9187241014167758186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 128
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2822302a401c015d0800000000000000
+      internalID: -3093760718361386366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 128
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65600061145eeac20800000000000000
+      internalID: 3219762851321218646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1318e95b5c97a49c0800000000000000
+      internalID: -3942204633746865871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4bcb8f2d3effb0800000000000000
+      internalID: -4612181693962694822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ef0448e11b0460800000000000000
+      internalID: 7208875317808587414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a0e7b35b04e550800000000000000
+      internalID: 6189084242109048850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleTree_allSeasons_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351a1a0827da72230800000000000000
+      internalID: 3614047933284065619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
