@@ -9,6 +9,9 @@ public class PickupItem : MonoBehaviour
     [SerializeField] float pickUpDistance = 1.5f;
     [SerializeField] float ttl = 10f;
 
+    public Item item;
+    public int count = 1;
+
 
     private void Awake()
     {
@@ -37,6 +40,15 @@ public class PickupItem : MonoBehaviour
 
         if (distance < 0.1f)
         {
+            //Should be moved into specific controller reather than here
+            if(GameManager.instance.inventoryContainer != null)
+            {
+                GameManager.instance.inventoryContainer.Add(item, count);
+            }
+            else
+            {
+                Debug.LogWarning("No inventory container attached to the game manager");
+            }
             Destroy(gameObject);
         }
     }
