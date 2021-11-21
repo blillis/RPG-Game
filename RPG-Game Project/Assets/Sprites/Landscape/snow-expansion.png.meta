@@ -4,7 +4,7 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 6606809341300014241
-    second: snow-expansion_0
+    second: Grass
   - first:
       213: 8736952483360054513
     second: snow-expansion_1
@@ -529,7 +529,7 @@ TextureImporter:
     second: snow-expansion_174
   - first:
       213: -3003181233360970742
-    second: snow-expansion_175
+    second: Dirt
   - first:
       213: -7742558290218993466
     second: snow-expansion_176
@@ -964,7 +964,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: snow-expansion_0
+      name: Grass
       rect:
         serializedVersion: 2
         x: 0
@@ -4639,7 +4639,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: snow-expansion_175
+      name: Dirt
       rect:
         serializedVersion: 2
         x: 128
