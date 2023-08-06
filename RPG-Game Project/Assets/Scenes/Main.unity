@@ -275,7 +275,7 @@ MonoBehaviour:
   m_Follow: {fileID: 998941166}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 3
+    OrthographicSize: 5
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -1863,7 +1863,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3
+  orthographic size: 5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3752,6 +3752,7 @@ MonoBehaviour:
   markerManager: {fileID: 1654099833}
   tileMapReaderController: {fileID: 1811548368}
   maxDistance: 2
+  onTilePickUp: {fileID: 11400000, guid: 4b92c8fbe085d454e9b6a72b0951b827, type: 2}
 --- !u!114 &998941171
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4708,6 +4709,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -8582073976438646261, guid: 3b5452631aa02c54aaff2076534cbc4d, type: 3}
+      propertyPath: spread
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7916532300520054769, guid: 3b5452631aa02c54aaff2076534cbc4d, type: 3}
       propertyPath: m_Name
       value: Tree (2)
@@ -9881,6 +9886,7 @@ MonoBehaviour:
   player: {fileID: 998941163}
   inventoryContainer: {fileID: 11400000, guid: 5cec0a949394fa2439aa1f4ca8f26f1f, type: 2}
   dragAndDropController: {fileID: 1811548366}
+  timeController: {fileID: 1811548365}
 --- !u!4 &1811548364
 Transform:
   m_ObjectHideFlags: 0
@@ -9969,7 +9975,8 @@ MonoBehaviour:
     m_PostInfinity: 0
     m_RotationOrder: 4
   dayLightColor: {r: 1, g: 1, b: 1, a: 1}
-  timeScale: 6000
+  timeScale: 2000
+  startAtTime: 28800
   text: {fileID: 1668159212}
   globalLight: {fileID: 1146961376}
 --- !u!114 &1811548366
@@ -10030,6 +10037,7 @@ MonoBehaviour:
   plowed: {fileID: 11400000, guid: e9b042e149a4fb840bdae6015743cf76, type: 2}
   seeded: {fileID: 11400000, guid: 61a9783c52f80ec4ba4a62811560ff31, type: 2}
   targetTilemap: {fileID: 1331941951}
+  cropsSpritePrefab: {fileID: 3988125199730889194, guid: cf22a394974f8e547869fb8c0b68e634, type: 3}
 --- !u!1001 &1812856794
 PrefabInstance:
   m_ObjectHideFlags: 0

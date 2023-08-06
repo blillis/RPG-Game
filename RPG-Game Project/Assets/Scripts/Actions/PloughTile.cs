@@ -9,7 +9,7 @@ public class PloughTile : ToolAction
 {
     [SerializeField] List<TileBase> canPlow;
 
-    public override bool OnApplyToTileMap(Vector3Int gridPosition, TileMapReaderController tileMapReaderController)
+    public override bool OnApplyToTileMap(Vector3Int gridPosition, TileMapReaderController tileMapReaderController, Item item)
     {
         TileBase tileToPlow = tileMapReaderController.GetTileBase(gridPosition);
 
