@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class TalkInteract : Interactable
 {
+    [SerializeField] DialogueContainer dialogue;
+
     public override void Interact(Character character)
     {
-        Debug.Log("PogChamp");
+        GameManager.instance.dialogueSystem.Initialized(dialogue);
     }
 }
