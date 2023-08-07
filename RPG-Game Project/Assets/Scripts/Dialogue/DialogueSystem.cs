@@ -8,6 +8,7 @@ public class DialogueSystem : MonoBehaviour
 {
     [SerializeField] Text targetText;
     [SerializeField] Text nameText;
+    [SerializeField] Image portrait;
 
     DialogueContainer currentDialogue;
     int currentTextLine;
@@ -79,6 +80,13 @@ public class DialogueSystem : MonoBehaviour
         currentDialogue = dialogueContainer;
         currentTextLine = 0;
         CycleLine();
+        UpdatePortrait(); 
+    }
+
+    private void UpdatePortrait()
+    {
+        portrait.sprite = currentDialogue.actor.portrait;
+        nameText.text = currentDialogue.actor.Name;
     }
 
     private void Show(bool v)

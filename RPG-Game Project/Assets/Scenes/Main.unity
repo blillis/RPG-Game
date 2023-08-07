@@ -3659,6 +3659,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetText: {fileID: 494033999}
   nameText: {fileID: 771461888}
+  portrait: {fileID: 428648209}
+  visibleTextPercent: 0
+  timePerLetter: 0.05
 --- !u!1001 &829905260
 PrefabInstance:
   m_ObjectHideFlags: 0
