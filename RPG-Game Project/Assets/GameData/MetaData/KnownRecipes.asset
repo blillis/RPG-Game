@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: KnownRecipes
   m_EditorClassIdentifier: 
   recipes:
-  - {fileID: 0}
+  - {fileID: 11400000, guid: faae593337fdcef4e880eab00f12ed44, type: 2}
