@@ -75,6 +75,8 @@ MonoBehaviour:
   closedStorage: {fileID: 6184107723318772193}
   openStorage: {fileID: 6184107723486311673}
   opened: 0
+  onOpenAudio: {fileID: 8300000, guid: 44d90fc7527a6a545a42d408ebeb4343, type: 3}
+  onCloseAudio: {fileID: 8300000, guid: cfd88588480d68548a697a34948ae542, type: 3}
 --- !u!1 &6184107723318772193
 GameObject:
   m_ObjectHideFlags: 0

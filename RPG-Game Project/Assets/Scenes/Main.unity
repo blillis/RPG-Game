@@ -3833,6 +3833,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chest
       objectReference: {fileID: 0}
+    - target: {fileID: 6184107722903550409, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
+      propertyPath: opened
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6184107722903550409, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
+      propertyPath: onOpenAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 55203766255096e48b4571844128c390, type: 3}
+    - target: {fileID: 6184107722903550409, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
+      propertyPath: onCloseAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: cfd88588480d68548a697a34948ae542, type: 3}
     - target: {fileID: 6184107722903550411, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -3875,6 +3887,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6184107722903550411, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6184107723486311673, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
