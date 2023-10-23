@@ -10,5 +10,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 219b9ac819376724ead06ed0f45a486a, type: 3}
-  m_Name: New Place Object
+  m_Name: Place Object Action
   m_EditorClassIdentifier: 
