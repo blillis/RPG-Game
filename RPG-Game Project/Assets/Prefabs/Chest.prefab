@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6184107722903550408}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.87, y: 2.91, z: -8.238188}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.9, y: 1, z: 1}
   m_Children:
   - {fileID: 6184107723318772194}
@@ -75,7 +75,7 @@ MonoBehaviour:
   closedStorage: {fileID: 6184107723318772193}
   openStorage: {fileID: 6184107723486311673}
   opened: 0
-  onOpenAudio: {fileID: 8300000, guid: 44d90fc7527a6a545a42d408ebeb4343, type: 3}
+  onOpenAudio: {fileID: 8300000, guid: 55203766255096e48b4571844128c390, type: 3}
   onCloseAudio: {fileID: 8300000, guid: cfd88588480d68548a697a34948ae542, type: 3}
 --- !u!1 &6184107723318772193
 GameObject:

@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5952d5225a22cb84e9f6c132e8fd98d9, type: 3}
-  m_Name: New Crafting Recipe
+  m_Name: Chest
   m_EditorClassIdentifier: 
   elements:
-  - item: {fileID: 11400000, guid: 93a14a6b6592b544a821d42e43be9ad8, type: 2}
-    count: 5
+  - item: {fileID: 11400000, guid: 2e9398fe334d5f945a5c6e6ebc005144, type: 2}
+    count: 10
   output:
-    item: {fileID: 11400000, guid: 6aa83bebc3fba6b49bd23d321f9655a6, type: 2}
+    item: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
     count: 1
