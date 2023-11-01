@@ -9,23 +9,32 @@ public class StorageInteract : Interactable
     [SerializeField] bool opened;
     [SerializeField] AudioClip onOpenAudio;
     [SerializeField] AudioClip onCloseAudio;
+    //[SerializeField] Character c;
     // Start is called before the first frame update
     public override void Interact(Character character)
     {
-        if(opened == false)
+        
+        if (opened == false)
         {
             opened = true;
             closedStorage.SetActive(false);
             openStorage.SetActive(true);
 
             AudioManager.instance.Play(onOpenAudio);
-        } else
+
+            character.GetComponent<StorageInteractController>().Open();
+        }
+        else
         {
             opened = false;
             closedStorage.SetActive(true);
             openStorage.SetActive(false);
 
             AudioManager.instance.Play(onCloseAudio);
+
+            character.GetComponent<StorageInteractController>().Close();
         }
+        
+        
     }
 }

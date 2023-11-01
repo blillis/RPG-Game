@@ -8,7 +8,7 @@ public class CharacterInteractController : MonoBehaviour
     Rigidbody2D rgbd2d;
     [SerializeField] float offsetDistance = 1f;
     [SerializeField] float sizeOfInteractableArea = 1.2f;
-    Character character;
+    [SerializeField] Character character;
 
     private void Awake()
     {
