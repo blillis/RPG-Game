@@ -1393,10 +1393,10 @@ RectTransform:
   - {fileID: 1668159211}
   - {fileID: 177409261}
   - {fileID: 727803089}
+  - {fileID: 1312452403}
   - {fileID: 1149663829}
   - {fileID: 818451385}
   - {fileID: 329362483}
-  - {fileID: 1312452403}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3513,7 +3513,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 123494742}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -8444,7 +8444,7 @@ RectTransform:
   - {fileID: 771461887}
   - {fileID: 494033998}
   m_Father: {fileID: 123494742}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -9800,6 +9800,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemStoragePanel: {fileID: 1312452404}
+  maxDistance: 2.5
 --- !u!1001 &999071013
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11123,7 +11124,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 123494742}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -12941,7 +12942,7 @@ RectTransform:
   - {fileID: 1800185471}
   - {fileID: 1286364744}
   m_Father: {fileID: 123494742}
-  m_RootOrder: 7
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}

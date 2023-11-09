@@ -3890,6 +3890,10 @@ PrefabInstance:
       propertyPath: onCloseAudio
       value: 
       objectReference: {fileID: 8300000, guid: cfd88588480d68548a697a34948ae542, type: 3}
+    - target: {fileID: 6184107722903550409, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
+      propertyPath: itemContainer
+      value: 
+      objectReference: {fileID: 11400000, guid: 2c7477c0ffcee834ebfd85dba7f6f862, type: 2}
     - target: {fileID: 6184107722903550411, guid: 49c9b87fb2ef4884082a26d4cf5e00be, type: 3}
       propertyPath: m_RootOrder
       value: 6
