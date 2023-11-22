@@ -77,6 +77,7 @@ MonoBehaviour:
   opened: 0
   onOpenAudio: {fileID: 8300000, guid: 55203766255096e48b4571844128c390, type: 3}
   onCloseAudio: {fileID: 8300000, guid: cfd88588480d68548a697a34948ae542, type: 3}
+  itemContainer: {fileID: 11400000, guid: 2c7477c0ffcee834ebfd85dba7f6f862, type: 2}
 --- !u!1 &6184107723318772193
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eda9e2ac7cba97f41807ccdec85a9872, type: 3}
   m_Name: Main Scene Objects Container
   m_EditorClassIdentifier: 
-  placeableObjects: []
+  placeableObjects:
+  - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: 1, y: 5, z: 0}
+  - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: -3, y: 3, z: 0}
