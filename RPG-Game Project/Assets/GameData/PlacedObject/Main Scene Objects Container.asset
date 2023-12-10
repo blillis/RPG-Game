@@ -16,6 +16,12 @@ MonoBehaviour:
   - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: 1, y: 5, z: 0}
+    objectState: 
   - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: -3, y: 3, z: 0}
+    objectState: 
+  - placedItem: {fileID: 11400000, guid: 8cf2d13db25bed949b70909ced4040a0, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: -6, y: -3, z: 0}
+    objectState: '{"itemSlot":{"item":{"instanceID":25680},"count":1},"timer":-0.0024475492537021639}'
