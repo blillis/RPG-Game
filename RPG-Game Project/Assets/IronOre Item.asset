@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 32e9cabb44614e1468fa238cdf1f90d9, type: 3}
-  m_Name: Axe
+  m_Name: IronOre Item
   m_EditorClassIdentifier: 
-  Name: Axe
-  stackable: 0
-  icon: {fileID: 21300000, guid: df526f023b4850d4b8607f8ed05ebe38, type: 3}
-  onAction: {fileID: 11400000, guid: e2445b38396a99d4b97a5b2b6fc22e02, type: 2}
+  Name: Iron ore
+  stackable: 1
+  icon: {fileID: 21300000, guid: 737fe83adeb662f4eb98607588bc6a07, type: 3}
+  onAction: {fileID: 0}
   onTileMapAction: {fileID: 0}
   onItemUsed: {fileID: 0}
   crop: {fileID: 0}
