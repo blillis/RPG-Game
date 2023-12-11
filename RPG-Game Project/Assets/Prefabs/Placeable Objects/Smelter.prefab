@@ -158,7 +158,7 @@ MonoBehaviour:
   convertableItem: {fileID: 11400000, guid: df87de8cab57e2a44a4054ded7ffb450, type: 2}
   producedItem: {fileID: 11400000, guid: 9ba7858585bf3e74680b3c754f61e177, type: 2}
   producedItemCount: 1
-  timeToProcess: 5
+  timeToProcess: 30
 --- !u!95 &2226423890458464299
 Animator:
   serializedVersion: 3

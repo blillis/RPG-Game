@@ -24,4 +24,4 @@ MonoBehaviour:
   - placedItem: {fileID: 11400000, guid: 8cf2d13db25bed949b70909ced4040a0, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: -6, y: -3, z: 0}
-    objectState: '{"itemSlot":{"item":{"instanceID":25680},"count":1},"timer":-0.0024475492537021639}'
+    objectState: '{"itemSlot":{"item":{"instanceID":0},"count":0},"timer":0}'
