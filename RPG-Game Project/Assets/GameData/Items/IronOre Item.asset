@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: IronOre Item
   m_EditorClassIdentifier: 
   Name: Iron ore
+  id: 3
   stackable: 1
   icon: {fileID: 21300000, guid: 737fe83adeb662f4eb98607588bc6a07, type: 3}
   onAction: {fileID: 0}

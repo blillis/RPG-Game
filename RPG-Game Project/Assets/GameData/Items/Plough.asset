@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Plough
   m_EditorClassIdentifier: 
   Name: Plough
+  id: 5
   stackable: 0
   icon: {fileID: 21300000, guid: f73dfe88a39edd348a5ef3d8aae732bc, type: 3}
   onAction: {fileID: 0}
