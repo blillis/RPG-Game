@@ -114,7 +114,7 @@ public class StorageInteract : Interactable, IPersistant
 
     public void Load(string jsonString)
     {
-        if (jsonString == "" || jsonString == "{}") { return; } 
+        if (jsonString == "" || jsonString == "{}" || jsonString == null) { return; } 
 
         if (itemContainer == null)
         {

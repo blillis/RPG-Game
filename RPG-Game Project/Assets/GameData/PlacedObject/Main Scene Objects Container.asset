@@ -16,11 +16,11 @@ MonoBehaviour:
   - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: 1, y: 5, z: 0}
-    objectState: 
+    objectState: '{"itemDatas":[{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0}]}'
   - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: -3, y: 3, z: 0}
-    objectState: 
+    objectState: '{"itemDatas":[{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0}]}'
   - placedItem: {fileID: 11400000, guid: 8cf2d13db25bed949b70909ced4040a0, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: -6, y: -3, z: 0}
