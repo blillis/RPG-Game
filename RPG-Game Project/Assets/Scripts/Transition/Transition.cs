@@ -1,3 +1,4 @@
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -15,7 +16,7 @@ public class Transition : MonoBehaviour
     [SerializeField] Collider2D confiner;
 
     CameraConfiner cameraConfiner;
-    Transform destination;
+    [SerializeField] Transform destination;
 
 
     void Start()
@@ -58,5 +59,18 @@ public class Transition : MonoBehaviour
         }
 
         
+    }
+
+    private void OnDrawGizmos()
+    {
+        if(transitionType == TransitionType.Scene)
+        {
+            Handles.Label(transform.position, "to " + sceneNameToTransition);
+        }
+
+        if(transitionType == TransitionType.Warp)
+        {
+            Gizmos.DrawLine(transform.position, destination.position);
+        }
     }
 }
