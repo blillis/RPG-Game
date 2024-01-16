@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canPlow:
   - {fileID: 11400000, guid: 9bb3aa3e26c613d4c822369c3deb5556, type: 2}
+  - {fileID: 11400000, guid: 2b0f89f4bfe835f40bf57299d20b863b, type: 2}
   onPlowUsed: {fileID: 8300000, guid: b25ae106b7ac25049a2d37ab755c3a87, type: 3}
