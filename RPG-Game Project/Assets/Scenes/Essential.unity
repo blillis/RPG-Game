@@ -6774,6 +6774,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textPrefab: {fileID: 2521667882171004820, guid: aea3fa67bf4a1384d807d280b3997006, type: 3}
+  horizontalScatter: 0.25
+  verticalScatter: 0.5
+  timeToLive: 1.2
 --- !u!4 &682085528
 Transform:
   m_ObjectHideFlags: 0
