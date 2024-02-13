@@ -111,7 +111,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2226423890458464303}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.7, y: -1.34, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2226423889416053183}
@@ -159,7 +159,7 @@ MonoBehaviour:
   convertableItem: {fileID: 11400000, guid: df87de8cab57e2a44a4054ded7ffb450, type: 2}
   producedItem: {fileID: 11400000, guid: 9ba7858585bf3e74680b3c754f61e177, type: 2}
   producedItemCount: 1
-  timeToProcess: 30
+  timeToProcess: 5
 --- !u!95 &2226423890458464299
 Animator:
   serializedVersion: 3

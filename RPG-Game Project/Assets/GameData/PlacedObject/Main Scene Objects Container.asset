@@ -13,11 +13,15 @@ MonoBehaviour:
   m_Name: Main Scene Objects Container
   m_EditorClassIdentifier: 
   placeableObjects:
-  - placedItem: {fileID: 11400000, guid: 8cf2d13db25bed949b70909ced4040a0, type: 2}
-    targetObject: {fileID: 0}
-    positionOnGrid: {x: -6, y: -3, z: 0}
-    objectState: '{"itemSlot":{"item":{"instanceID":0},"count":0},"timer":0}'
   - placedItem: {fileID: 11400000, guid: 20e611dc992985645975c06902fd32d7, type: 2}
     targetObject: {fileID: 0}
     positionOnGrid: {x: -3, y: 2, z: 0}
     objectState: '{"itemDatas":[{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0}]}'
+  - placedItem: {fileID: 11400000, guid: 8cf2d13db25bed949b70909ced4040a0, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: -6, y: -4, z: 0}
+    objectState: '{"itemSlot":{"item":{"instanceID":0},"count":0},"timer":0}'
+  - placedItem: {fileID: 11400000, guid: 8cf2d13db25bed949b70909ced4040a0, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: 1, y: 3, z: 0}
+    objectState: '{"itemSlot":{"item":{"instanceID":0},"count":0},"timer":0}'
